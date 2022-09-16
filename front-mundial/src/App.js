@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div>
         <NavBar />
+        
         <PartidosListContainer/>
       </div>
     </div>
